@@ -33,6 +33,7 @@ st.markdown("""
     #fff7cc,
     #d9ffd9
     );
+    font-size:22px;
 }
 
 .main-title{
@@ -45,7 +46,7 @@ st.markdown("""
 
 .sub-title{
     text-align:center;
-    font-size:22px;
+    font-size:26px;
     color:#444444;
     margin-bottom:30px;
 }
@@ -62,7 +63,7 @@ st.markdown("""
     height:55px;
     border-radius:15px;
     border:none;
-    font-size:18px;
+    font-size:20px;
     font-weight:bold;
     color:white;
     background:linear-gradient(
